@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/The0v3rD0z/hideandseek2
+branches:
+- master
+- dev
+projects:
+  hideandseek2:
+    path: ""
+...
