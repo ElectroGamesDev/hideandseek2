@@ -1,6 +1,6 @@
 <?php
 
-namespace Ad5001\HideAndSeek\tasks;
+namespace hideandseek\tasks;
 
 
 
