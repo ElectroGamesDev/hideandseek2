@@ -1,0 +1,17 @@
+---
+Max players: 16
+
+Waiting time: 60
+
+Seeking Time: 3
+
+Seekers percentage: 10
+
+Lobby world: world
+
+Winners command: give {player} diamond 1
+
+Losers command: give {player} dirt 64
+
+Semi winners command: give {player} iron_ingot
+...

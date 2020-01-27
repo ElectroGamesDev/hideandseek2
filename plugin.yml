@@ -1,0 +1,34 @@
+---
+name: HideAndSeek
+
+author:  The0v3rD0z
+
+version: 1.0
+
+api: [3.11.3]
+
+main: HideAndSeek
+
+load: POSTWORLD
+
+commands:
+
+  hideandseek:
+
+    description: Main HideAndSeek management command
+
+    usage: /hideandseek <sub command> [parameters]
+
+    permission: hideandseek.cmd
+
+    aliases: [hide&seek, h&s]
+
+permissions: 
+
+  hideandseek.cmd:
+
+    default: op
+
+    description: /hideandseek permission
+
+...
