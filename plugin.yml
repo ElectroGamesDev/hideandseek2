@@ -7,7 +7,7 @@ version: 1.0
 
 api: [3.11.3]
 
-main: HideAndSeek
+main: hideandseek\Main
 
 load: POSTWORLD
 
